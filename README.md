@@ -1,2 +1,2 @@
-![image](https://user-images.githubusercontent.com/76743219/199791615-65e12b66-e68e-496c-a976-def5b15f1723.png)
+![image](https://user-images.githubusercontent.com/76743219/199792073-61811079-6c58-4936-af33-26eb9d0e17ef.png)
 I am a recent C.S graduate
