@@ -1,2 +1,1 @@
-![image](https://user-images.githubusercontent.com/76743219/199792689-0fe0b65f-68d7-49b4-91e2-5a0c58773113.png)
-I am a recent C.S graduate
+![image](https://user-images.githubusercontent.com/76743219/199909804-613388fc-bcd9-4312-8dbf-3a8e43b52cf8.png)
